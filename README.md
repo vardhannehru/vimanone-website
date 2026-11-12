@@ -4,6 +4,11 @@
 
 The VimanOne website: your step-by-step guide to becoming a commercial pilot in India. From prerequisites through the DGCA pathway, checklist, timeline, cadet vs. traditional routes, and professional guidance.
 
+## Credits
+
+- [@vardhannehru](https://github.com/vardhannehru) — creator and maintainer
+- [@gayatri2504](https://github.com/gayatri2504) — development and testing
+
 ## Repository
 
 | Folder | What's in it |
